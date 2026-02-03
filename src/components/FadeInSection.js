@@ -20,7 +20,7 @@ export default function FadeInSection(props) {
     observer.observe(node);
 
     return () => {
-      observer.disconnect(); // ✅ never throws, even if node is gone
+      observer.disconnect(); // 
     };
   }, []);
 

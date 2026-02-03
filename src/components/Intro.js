@@ -5,7 +5,7 @@ import "../styles/Intro.css";
 //import "react-typist/dist/Typist.css";
 import EmailRoundedIcon from "@mui/icons-material/EmailRounded";
 import ArticleIcon from "@mui/icons-material/Article";
-import FadeInSection from "./FadeInSection";
+//import FadeInSection from "./FadeInSection";
 import ParticlePortrait from "./ParticlePortrait";
 
 class Intro extends React.Component {
