@@ -40,7 +40,7 @@ class Intro extends React.Component {
               {" Say hi!"}
             </a>
             
-            <a href="Mohammed_Wasif_Ahmed.pdf" className = "intro-contact-2">
+            <a href="Mohammed_Wasif_Ahmed_Resume.pdf" className = "intro-contact-2">
             <ArticleIcon></ArticleIcon>
             {" Resume "}
             </a>
