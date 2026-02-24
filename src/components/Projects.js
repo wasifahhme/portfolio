@@ -23,6 +23,16 @@ class Projects extends React.Component {
   }
   render() {
     const projects = {
+      "forintl":{
+        desc: "Unified Portal of Rules and Regulations for an International Student",
+        techStack: "Typescript, Vite+React, PostgreSQL, ChatterBot",
+        link: "https://github.com/wasifahhme/for-intl",
+
+      },
+
+
+
+
       "AI Powered Itinerary Generator": {
         desc:
           "Itinerary Generator integrating FastAPI, React, and Generative AI (Gemini) to automate road-trip planning",
