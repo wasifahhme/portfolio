@@ -66,9 +66,7 @@ class About extends React.Component {
               </ul>
               {[two]}
             </div>
-            <div className="about-image">
-              <img alt="Mohammed Wasif Ahmed" />
-            </div>
+            
           </div>
         </FadeInSection>
       </div>
